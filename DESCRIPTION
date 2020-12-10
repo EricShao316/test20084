@@ -1,0 +1,16 @@
+Package: test20084
+Type: Package
+Title: Random Walk Package
+Version: 1.0
+Date: 2020-12-10
+Author: Eric
+Maintainer: Eric <2398799117@qq.com>
+Description: Random Walk Sampler for Laplace distribution.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown
+LinkingTo: Rcpp
+VignetteBuilder: knitr
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+URL: http://github.com/EricShao316/test20084
+BugPeports: http://github.com/EricShao316/test20084/issues
