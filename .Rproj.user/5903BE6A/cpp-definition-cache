@@ -1,0 +1,26 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "E:/R_Lab/statistical_computing/Homework11/test20084/src/rwlapC.cpp",
+                "kind" : 6,
+                "line" : 15,
+                "name" : "dlapC(double)",
+                "parent_name" : "",
+                "usr" : "c:@F@dlapC#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "E:/R_Lab/statistical_computing/Homework11/test20084/src/rwlapC.cpp",
+                "kind" : 6,
+                "line" : 35,
+                "name" : "rwlapC(int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@rwlapC#I#d#"
+            }
+        ],
+        "file" : "E:/R_Lab/statistical_computing/Homework11/test20084/src/rwlapC.cpp",
+        "file_last_write" : 1607443004.000000
+    }
+]

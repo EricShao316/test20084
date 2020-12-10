@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607607265030.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "63C5AE38",
+    "lastKnownWriteTime" : 1607601908,
+    "last_content_update" : 1607601908,
+    "path" : "E:/R_Lab/statistical_computing/Homework11/test20084/man/test20084-package.Rd",
+    "project_path" : "man/test20084-package.Rd",
+    "properties" : {
+        "cursorPosition" : "17,36",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

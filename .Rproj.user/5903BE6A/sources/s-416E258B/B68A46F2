@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607606272336.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B68A46F2",
+    "lastKnownWriteTime" : 1607607558,
+    "last_content_update" : 1607607558922,
+    "path" : "E:/R_Lab/statistical_computing/Homework11/test20084/R/rwlapR.R",
+    "project_path" : "R/rwlapR.R",
+    "properties" : {
+        "cursorPosition" : "7,23",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
